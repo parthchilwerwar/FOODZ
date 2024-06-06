@@ -40,4 +40,4 @@ nodeman
 ```
 
 
-I hope you will be happy :) and if you find any error just Message me ! through my linkedin in my profile 
+I hope you will be happy :) and if you find any error just Message me ! through my linkedin in  profile 
