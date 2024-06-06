@@ -7,10 +7,11 @@ A versatile Discord bot written in JavaScript using Discord.js v14. It offers a 
 * **Securtiy:** Bot has anti-link, anti-raid system as which helps to keep server as well as user safe from raids and other sources .
 * **Fun:** Add some fun game's command which keep server user happy and enjoyable 
 * **Recipe api's:** As in this bot i have fetched free api as it fetches recipes as user based and more command to go !
+* And more command just explore the code 
   
 **You can git clone***
   
-``` git clone https://github.com/parthchilwerwar/FOODZ.git ```
+```git clone https://github.com/parthchilwerwar/FOODZ.git```
 
 
 As i have add  discord token /api / client / owner id  in .env file so you can changes the files with your token 
@@ -23,3 +24,20 @@ FEEDBACK_CHANNEL_ID =
 OWNER_ID = 
 ```
 
+You can start the code just by :
+
+```
+npm start  # or yarn start
+```
+**or**
+
+As nodemon do it automatically ! 
+```
+%npm i nodemon
+
+nodeman
+
+```
+
+
+I hope you will be happy :) and if you find any error just Message me ! through my linkedin in my profile 
